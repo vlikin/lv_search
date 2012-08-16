@@ -29,4 +29,5 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
-
+#for system files
+.*
